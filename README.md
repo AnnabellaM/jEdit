@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@AnnabellaM 
-AnnabellaM
-/
-jEdit
-Public
-Fork your own copy of AnnabellaM/jEdit
-Code
-Issues
-Pull requests
-Projects
-Wiki
-Security
-Insights
-Settings
-jEdit/README.SRC.txt
-
-vampire0 Tagging 5.5.0 for release.
-Latest commit 071bb0e on Apr 8, 2018
- History
- 0 contributors
-204 lines (147 sloc)  8.94 KB
-
 SOURCE CODE NOTES
 
 This file only contains information about compiling from source.
@@ -232,18 +202,3 @@ you can still build and run/debug jEdit from source. Follow these steps:
 
 The "eclipse-formatting.xml" file can be used to set the
 code format style to be the same as what is currently used here.
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-jEdit/README.SRC.txt at master · AnnabellaM/jEdit
